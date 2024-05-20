@@ -46,7 +46,7 @@
 
 ### 📚 Sobre mim
 
-Sou um profissional de **Quality Assurance** apaixonado por garantir a qualidade e confiabilidade de softwares. Atualmente, estou focado em garantir a qualidade e a eficiência dos projetos em que estou envolvido, utilizando minhas habilidades em linguagens de programação e frameworks. Fora do trabalho, estou sempre buscando aprender coisas novas e me manter atualizado com as últimas tendências em desenvolvimento de softwares. Participo ativamente da comunidades online, onde troco experiências com outros profissionais e aprendo sobre novas ferramentas e técnicas.
+Sou um profissional de **Quality Assurance** apaixonado por garantir a qualidade e confiabilidade de softwares. Atualmente, estou focado em garantir a qualidade e a eficiência dos projetos em que estou envolvido, utilizando minhas habilidades em linguagens de programação e frameworks. Fora do trabalho, estou sempre buscando aprender coisas novas e me manter atualizado com as últimas tendências em desenvolvimento de softwares. Participo ativamente de comunidades online, onde troco experiências com outros profissionais e aprendo sobre novas ferramentas e técnicas.
 
 ### 💼 Experiência Profissional 
 
